@@ -1,0 +1,74 @@
+.banner{
+    background-color: blue;
+    width: auto;
+    height: 350px;
+}
+
+.rfvp{
+    font-size: 50px;
+    margin: 0;
+    padding: 75px 35px 0px;
+}
+
+.rfvps{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+    padding: 10px 35px;
+}
+
+.smwrf{
+    margin: 20px 35px;
+    width: 175px;
+    height: 40px;
+}
+
+.marginlesshr{
+    margin: 0;
+}
+
+.wrfau{
+
+    margin: 0 30px;
+}
+
+.wrfauimg{
+    width: auto;
+    height: 400px;
+    background-image: ;
+    background-color: red;
+    margin: 50px 0px;
+}
+
+.wrfaut{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0 0 10px;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+.oss{
+    padding: 30px;
+}
+
+.ooosiop{
+    width: 200px;
+    height: 200px;
+    background-image: ;
+    background-color: green;
+    margin: 50px 0px;
+}
+
+.ops{
+    padding: 30px;
+}
+.ooopiop{
+    width: auto;
+    height: 400px;
+    background-image: ;
+    background-color: red;
+    margin: 50px 0px;
+}
